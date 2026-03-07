@@ -1,0 +1,6 @@
+name,method_type,languages,tradition,year
+S1_Ekman_1971,cross-cultural facial recognition,"English;Japanese;Brazilian;Fore",discrete-categorical,1971
+S2_Plutchik_1980,evolutionary theoretical,English,evolutionary-categorical,1980
+S3_Russell_1980,MDS circumplex,English,dimensional,1980
+S4_Barrett_2006,meta-analysis theoretical,English,constructionist,2006
+S5_Zentner_2008,domain-specific FA,"French;German",domain-specific,2008

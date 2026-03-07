@@ -1,0 +1,11 @@
+candidate,S1_Ekman_1971,S2_Plutchik_1980,S3_Russell_1980,S4_Barrett_2006,S5_Zentner_2008
+Valence,Y*,Y*,Y,Y,Y*
+Arousal,N*,Y*,Y,Y,Y*
+Anger,Y,Y,N,N,N
+Fear,Y,Y,N,N,N
+Joy/Happiness,Y,Y,N,N,Y*
+Sadness,Y,Y,N,N,Y
+Disgust,Y,Y,N,N,N
+Surprise,Y,Y,N,N,N
+Trust,N,Y,N,N,N
+Anticipation,N,Y,N,N,N

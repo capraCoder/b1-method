@@ -1,0 +1,7 @@
+candidate,S1_Goldberg_1990,S2_Costa_McCrae_1992,S3_Ashton_Lee_2004,S4_DeRaad_2010,S5_Saucier_Goldberg_1996,S6_Digman_1990
+Extraversion,Y,Y,Y,Y,Y,Y
+Agreeableness,Y,Y,Y*,Y,Y,Y
+Conscientiousness,Y,Y,Y,Y,Y,Y
+Neuroticism/Emotionality,Y,Y,Y*,N*,Y,Y
+Openness/Intellect,Y,Y,Y,N*,Y,Y
+Honesty-Humility,N,N,Y,Y*,N,N

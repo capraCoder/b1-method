@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "b1-method"
+version = "0.1.0"
+description = "Domain-independent convergent derivation of canonical basis vectors from heterogeneous observations"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [
+    {name = "Kafkas M. Caprazli", email = "caprazli@cosmologic.pro"},
+]
+keywords = [
+    "measurement theory",
+    "dimensional analysis",
+    "convergent derivation",
+    "psychometrics",
+    "factor analysis",
+    "topology",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering",
+]
+
+[project.scripts]
+b1-method = "b1_method.cli:main"
+
+[project.urls]
+Homepage = "https://cosmologic.pro"
+
+[tool.setuptools.packages.find]
+include = ["b1_method*"]
+
+[tool.setuptools.package-data]
+"b1_method" = ["examples/*.csv"]

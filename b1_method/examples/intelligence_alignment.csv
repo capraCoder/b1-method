@@ -1,0 +1,17 @@
+candidate,S1_Spearman_1904,S2_Horn_Cattell_1966,S3_Carroll_1993,S4_CHC_2009,S5_Gardner_1983
+g,Y,N,Y,Y*,N
+Gf,Y*,Y,Y,Y,Y*
+Gc,Y*,Y,Y,Y,Y*
+Gv,N*,Y,Y,Y,Y
+Ga,N,Y,Y,Y,Y*
+Gs,N*,Y,Y,Y,N
+Gsm/Gwm,N*,Y,Y,Y,N
+Glr,N,Y,Y,Y,N
+Gt,N,Y,Y,Y,N
+Grw,N,N,N*,Y,Y*
+Gq,N,N,N*,Y,Y*
+Musical,N,N,N,N,Y
+Bodily-Kinesthetic,N,N,N,N*,Y
+Interpersonal,N,N,N,N,Y
+Intrapersonal,N,N,N,N,Y
+Naturalistic,N,N,N,N,Y

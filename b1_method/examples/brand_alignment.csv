@@ -1,0 +1,10 @@
+candidate,S1_Aaker_1997,S2_CrossCultural_2001,S3_Geuens_2009,S4_Azoulay_2003
+Sincerity,Y,Y,Y*,Y
+Excitement,Y,Y,Y*,Y
+Competence,Y,Y*,Y*,N
+Sophistication,Y,Y*,N*,N
+Ruggedness,Y,N,N*,N
+Peacefulness,N,Y,N,N
+Aggressiveness,N,N,Y,N
+Simplicity,N,N,Y,N
+Emotionality_brand,N,N,Y,N
