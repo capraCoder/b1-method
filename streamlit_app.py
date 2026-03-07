@@ -96,10 +96,10 @@ if mode == "Upload CSVs":
 else:
     example = st.sidebar.selectbox(
         "Domain",
-        ["personality", "emotion", "brand", "intelligence"],
+        ["personality", "emotion", "brand", "intelligence", "taste", "colour"],
         format_func=str.title,
     )
-    domain = example.title()
+    domain = "Colour Terms" if example == "colour" else example.title()
 
     examples_dir = importlib.resources.files("b1_method") / "examples"
     align_path = str(examples_dir / f"{example}_alignment.csv")

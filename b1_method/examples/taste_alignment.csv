@@ -1,0 +1,11 @@
+candidate,S1_Henning_1916,S2_Ikeda_1909,S3_ISO_1985,S4_Beauchamp_2009,S5_Running_2015
+Sweet,Y,Y,Y,Y,Y
+Sour,Y,Y,Y,Y,Y
+Salty,Y,Y,Y,Y,Y
+Bitter,Y,Y,Y,Y,Y
+Umami,N,Y,N,Y,Y
+Fat (Oleogustus),N,N,N,N,Y
+Kokumi,N,N,N,N*,Y*
+Astringent,Y*,N,N*,N,N
+Metallic,N,N,N*,N,N
+Calcium,N,N,N,N,Y*

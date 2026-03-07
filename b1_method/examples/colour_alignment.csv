@@ -1,0 +1,13 @@
+candidate,S1_Berlin_Kay_1969,S2_WALS_2005,S3_Lindsey_Brown_2006,S4_Gibson_2017,S5_Kay_Regier_2003
+Black,Y,Y,Y,Y,Y
+White,Y,Y,Y,Y,Y
+Red,Y,Y,Y,Y,Y
+Green,Y,Y,Y,Y*,Y
+Yellow,Y,Y,Y,Y*,Y
+Blue,Y,Y,Y,Y*,Y
+Brown,Y,Y*,Y,N,Y*
+Purple,Y,Y*,Y*,N,N
+Pink,Y,Y*,Y*,N,N
+Orange,Y,Y*,Y*,N,N
+Grey,Y,N*,Y*,N,N
+Light Blue,N,N,Y,N,Y*
