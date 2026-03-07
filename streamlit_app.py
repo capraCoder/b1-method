@@ -45,7 +45,7 @@ st.caption(
     "Also available: "
     "[`pip install b1-method`](https://pypi.org/project/b1-method/) · "
     "[Google Colab](https://colab.research.google.com/) · "
-    "[GitHub](https://github.com/capraCoder/AIBOS_B1)"
+    "[GitHub](https://github.com/capraCoder/b1-method)"
 )
 
 st.divider()
@@ -56,7 +56,7 @@ st.divider()
 
 mode = st.sidebar.radio(
     "Input mode",
-    ["Upload CSVs", "Bundled examples"],
+    ["Upload CSVs", "Domain examples"],
     index=1,
 )
 
