@@ -18,7 +18,7 @@ CLI:
     b1-method temporal sources.csv
 """
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 from b1_method.core import B1Analysis, B1Result
 from b1_method.temporal import TemporalSimulation

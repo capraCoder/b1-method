@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "b1-method"
-version = "0.1.0"
+version = "0.2.0"
 description = "Domain-independent convergent derivation of canonical basis vectors from heterogeneous observations"
 readme = "README.md"
 license = "MIT"
